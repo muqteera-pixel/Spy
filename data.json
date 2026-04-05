@@ -1,0 +1,39 @@
+{
+  "timetable": {
+    "Monday": [
+      {"start":"09:00","end":"10:00","course":"COM 214", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"10:00","end":"13:00","course":"COM 215P","venue":"Laboratory",      "type":"Practical"},
+      {"start":"14:00","end":"16:00","course":"COM 213", "venue":"ND2 Lecture Hall","type":"Lecture"}
+    ],
+    "Tuesday": [
+      {"start":"09:00","end":"10:00","course":"GNS 201", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"10:00","end":"12:00","course":"COM 216", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"12:00","end":"13:00","course":"COM 211", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"14:00","end":"15:00","course":"COM 211", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"15:00","end":"18:00","course":"COM 214P","venue":"Laboratory",      "type":"Practical"}
+    ],
+    "Wednesday": [
+      {"start":"08:00","end":"09:00","course":"GNS 201", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"09:00","end":"12:00","course":"COM 213P","venue":"Laboratory",      "type":"Practical"},
+      {"start":"12:00","end":"13:00","course":"COM 216", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"14:00","end":"16:00","course":"COM 215", "venue":"ND2 Lecture Hall","type":"Lecture"}
+    ],
+    "Thursday": [
+      {"start":"09:00","end":"12:00","course":"COM 211P","venue":"Laboratory",      "type":"Practical"},
+      {"start":"12:00","end":"13:00","course":"COM 216", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"15:00","end":"17:00","course":"COM 212", "venue":"ND2 Lecture Hall","type":"Lecture"}
+    ],
+    "Friday": [
+      {"start":"09:00","end":"10:00","course":"COM 214", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"10:00","end":"11:00","course":"COM 216", "venue":"ND2 Lecture Hall","type":"Lecture"},
+      {"start":"11:00","end":"13:00","course":"COM 212P","venue":"Laboratory",      "type":"Practical"}
+    ],
+    "Saturday": [
+      {"start":"07:00","end":"09:00","course":"EED 216P","venue":"Laboratory",      "type":"Practical"},
+      {"start":"09:00","end":"10:00","course":"EED 216", "venue":"ND2 Lecture Hall","type":"Lecture"}
+    ],
+    "Sunday": []
+  },
+  "announcements": [],
+  "lastUpdated": "2026-04-04T00:00:00.000Z"
+}
