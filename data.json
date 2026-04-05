@@ -154,14 +154,6 @@
     ],
     "Sunday": []
   },
-  "announcements": [
-    {
-      "id": 1775416597417,
-      "msg": "I said remove ads banner and insteristial and there background I don't want see everything related to advertisement and JSON file only 1 post I do and another it say problem on JSON file see",
-      "img": "",
-      "time": "2026-04-05T19:16:37.417Z",
-      "read": false
-    }
-  ],
-  "lastUpdated": "2026-04-05T19:16:59.672Z"
+  "announcements": [],
+  "lastUpdated": "2026-04-05T19:26:45.521Z"
 }
