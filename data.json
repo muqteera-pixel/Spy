@@ -154,6 +154,14 @@
     ],
     "Sunday": []
   },
-  "announcements": [],
-  "lastUpdated": "2026-04-05T18:44:06.558Z"
+  "announcements": [
+    {
+      "id": 1775414703821,
+      "msg": "Hello guys I'm muktar",
+      "img": "",
+      "time": "2026-04-05T18:45:03.821Z",
+      "read": false
+    }
+  ],
+  "lastUpdated": "2026-04-05T18:45:19.088Z"
 }
