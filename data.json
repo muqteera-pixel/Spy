@@ -154,14 +154,6 @@
     ],
     "Sunday": []
   },
-  "announcements": [
-    {
-      "id": 1775514020285,
-      "msg": "Hello guys",
-      "img": "",
-      "time": "2026-04-06T22:20:20.285Z",
-      "read": false
-    }
-  ],
-  "lastUpdated": "2026-04-06T22:20:21.694Z"
+  "announcements": [],
+  "lastUpdated": "2026-04-08T10:12:25.752Z"
 }
