@@ -154,6 +154,21 @@
     ],
     "Sunday": []
   },
-  "announcements": [],
-  "lastUpdated": "2026-04-08T10:12:25.752Z"
+  "announcements": [
+    {
+      "id": 1775643168386,
+      "msg": "Hello guys today we have mssn orientation at ND 2 hall",
+      "img": "",
+      "time": "2026-04-08T10:12:48.386Z",
+      "read": false
+    },
+    {
+      "id": 1775643192179,
+      "msg": "Hello everyone today we have mssn orientation at ND 2",
+      "img": "",
+      "time": "2026-04-08T10:13:12.179Z",
+      "read": false
+    }
+  ],
+  "lastUpdated": "2026-04-08T10:13:30.865Z"
 }
